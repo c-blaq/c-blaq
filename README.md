@@ -3,8 +3,8 @@
 <p align="left"> <a href="https://twitter.com/_babayeju" target="blank"><img src="https://img.shields.io/twitter/follow/_babayeju?logo=twitter&style=for-the-badge" alt="_babayeju" /></a> </p>
 
 <h2>Who am I?</h2>
-<p>I’m a front-end developer who is passionate about building long-lasting solutions related to the web.
-I am skilled in implementing design systems - I do this with <a href='https://reactjs.org/'>React</a> and co. 
+<p>I’m a Frontend Engineer passionate about building long-lasting solutions related to the web.
+I am skilled in implementing design systems - I do this with <a href='https://reactjs.org/'>React</a>, <a href='https://vuejs.org/'>Vue</a> and co. 
 <br/> And yes! I am an enthusiast of clean code and architecture.
 </p>
 <p>You can get to know more about my experience here - <a href='https://drive.google.com/file/d/1hUiprEV0P0LX5hpIEJ4z8S8ompml3nvt/view?usp=share_link'> 📄 Resume</a></p>
